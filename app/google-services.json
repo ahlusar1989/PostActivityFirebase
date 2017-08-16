@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "527140479984",
+    "firebase_url": "https://rare-truck-793.firebaseio.com",
+    "project_id": "rare-truck-793",
+    "storage_bucket": "rare-truck-793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527140479984:android:d54bdad02de9ad38",
+        "android_client_info": {
+          "package_name": "com.sahluwalia.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527140479984-vbuv3cga8v6fn759dt08230utspbcbuo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "527140479984-0kr908ciafjcv7mm81keejjk7un1jr7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJCdixwXv6x9bKDCI1RQ4je8QCFcqQXZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
